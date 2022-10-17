@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Words App (Fragments)</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="action_switch_layout">Switch Layout</string>
+    <string name="detail_prefix">Words That Start With</string>
+    <string name="word_list_fragment_label">Words That Start With {letter}</string>
+</resources>
